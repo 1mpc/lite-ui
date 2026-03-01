@@ -16,7 +16,7 @@ export default defineConfig({
       { text: '指南', link: '/guide/' },
       { text: '组件', link: '/components/button' },
       { text: '演示', link: '/playground/' },
-      { text: 'GitHub', link: 'https://github.com/1mpc/lite-ui.git' }
+      { text: 'GitHub', link: 'https://github.com/1mpc/lite-ui' }
     ],
     sidebar: {
       '/guide/': [
@@ -56,7 +56,7 @@ export default defineConfig({
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/1mpc/lite-ui.git' }
+      { icon: 'github', link: 'https://github.com/1mpc/lite-ui' }
     ],
     footer: {
       message: '基于 MIT 许可发布',
