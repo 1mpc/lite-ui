@@ -1,0 +1,18 @@
+@import './variables.css';
+@import './animations.css';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--l-font-family);
+  font-size: var(--l-font-size-base);
+  color: var(--l-text-base);
+  background-color: var(--l-bg-base);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
