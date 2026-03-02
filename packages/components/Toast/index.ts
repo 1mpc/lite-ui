@@ -1,4 +1,4 @@
-import { createApp, h, ref } from 'vue'
+import { createApp } from 'vue'
 import LToast from './Toast.vue'
 
 type ToastType = 'info' | 'success' | 'warning' | 'error'

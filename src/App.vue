@@ -96,7 +96,7 @@
 
 <script setup lang="ts">
 import { ref } from 'vue'
-import { LButton, LInput, LAIInput, LCard, LModal, LToast, toast, LCommandPalette, LThemeSwitch } from '../packages'
+import { LButton, LInput, LAIInput, LCard, LModal, toast, LCommandPalette, LThemeSwitch } from '../packages'
 
 const inputValue = ref('')
 const inputValue2 = ref('')
